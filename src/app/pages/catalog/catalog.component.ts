@@ -28,7 +28,7 @@ import { Product } from '../../models/product.model';
               <div class="mt-auto d-flex justify-content-between align-items-center">
                 <span class="price fw-bold fs-5 text-primary">{{product.price | currency:'EUR'}}</span>
                 <a [routerLink]="['/producto', product.id]" class="btn btn-outline-primary btn-sm rounded-pill px-3 btn-cheese-link">
-                  Ver detalles
+                  Ver más
                 </a>
               </div>
             </div>

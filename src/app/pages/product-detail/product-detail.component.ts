@@ -46,12 +46,15 @@ import { Product } from '../../models/product.model';
             </div>
           </div>
 
-          <div class="d-grid gap-3 d-sm-flex">
+          <div class="d-grid gap-3 d-sm-flex flex-wrap">
             <button class="btn btn-primary btn-lg px-5 rounded-pill shadow-sm">
               Añadir al carrito
             </button>
-            <a routerLink="/pago" class="btn btn-outline-dark btn-lg px-5 rounded-pill">
+            <a routerLink="/pago" class="btn btn-warning btn-lg px-5 rounded-pill">
               Comprar ahora
+            </a>
+            <a routerLink="/catalogo" class="btn btn-outline-secondary btn-lg px-5 rounded-pill">
+              Volver al Catálogo
             </a>
           </div>
         </div>
