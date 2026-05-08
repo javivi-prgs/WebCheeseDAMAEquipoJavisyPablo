@@ -1,9 +1,6 @@
 📋 Plan de Trabajo: Migración a Angular (CheeseEnAngular)
 
-  [1] Hacer el 404 que te redirija y te vas fuera del enlace
-  [2] hay que cambiar la carpeta models por common y hacer bien la esctructura de las coasas estaticas y no estaticas
-  [3] en el app.html dejar solo y dejar el router-outlet y en la carpeta pages crear la carpeta component y dentro de esa carpeta ,principal, en principal es donde va a estar toda la web por componentes y el router outlet tiene que importar todo ahi 
-  [4] crea archivos de ruta de configuracion y entrelazarlas y eso bro.
+Página Terminada
 
 Cada vez que hayas modificado algo quiero que me modifiques el archivo .usoDeIA/logs.md y me pongas en un parrafo de maximo 4 lineas resumidamente que es lo que has modificado, también quiero que me pongas la fecha y la hora de la modificación. 
 El log seguirá el siguiente formato:
@@ -51,3 +48,7 @@ Visual:
     [7] Quiero que hagas un componente llamado footer como esta imagen: ![alt text](image-6.png), el footer solo tiene que aparecer cuando la persona llegue al final de la web.
     [8] Quiero que me hagas un componente llamado planes como esta imagen: ![alt text](image-7.png), es una ventana flotante que aparecerá al darle al boton de "Ver Planes" del componente etiqueta-planes y tambien se abrirá al darle al boton de "Planes" del navbar. Cuando se le de a la X se cerrará. Al pasar por el cursor de algún plan se hará un zoom suave y el borde amarillo.
     [1] Crea la pagina de Contactanos con su respectivo componente, la página deberá de ser así: ![alt text](image-8.png).
+    [1] Hacer el 404 que te redirija y te vas fuera del enlace
+    [2] hay que cambiar la carpeta models por common y hacer bien la esctructura de las coasas estaticas y no estaticas
+    [3] en el app.html dejar solo y dejar el router-outlet y en la carpeta pages crear la carpeta component y dentro de esa carpeta ,principal, en principal es donde va a estar toda la web por componentes y el router outlet tiene que importar todo ahi 
+    [4] crea archivos de ruta de configuracion y entrelazarlas y eso bro.

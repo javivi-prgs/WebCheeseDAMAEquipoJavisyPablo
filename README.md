@@ -1,5 +1,7 @@
 Pagina Web: https://web-cheese-dama-equipo-javisy-pablo.vercel.app/
 
+PÁGINA WEB TERMINADA Y COMPLETA
+
 # CheeseEnAngular
 Informe de Proyecto: Migración a Angular 
 
